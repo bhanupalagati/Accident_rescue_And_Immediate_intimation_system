@@ -1,0 +1,6 @@
+User_ID 1
+User_name Bhanu_Palagati
+AGE 20
+Gender Male
+City Chennai
+EmailId bhanupalagati@gmail.com

@@ -1,0 +1,17 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=1500&type=restaurant&keyword=cruise&key=YOUR_API_KEY
+
+smartaccidentcse7c@gmail.com
+Cse7c@2019
+
+
+send_mail.py is the file to get the data and send the information
+
+
+db_connector   is the file to careate the required databases
+
+
+data_access is used to get the data based on the availability
+
+
+antoni das sir email
+aro.antoni@gmail.com
